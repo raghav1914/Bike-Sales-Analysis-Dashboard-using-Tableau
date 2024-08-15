@@ -14,9 +14,9 @@ Features:
 
 Installation Instructions:
 1. Clone the Repository: Use the following command to clone the repository to your local machine:
-   
-3. Download the Tableau Workbook: Navigate to the folder in the repository where the Tableau file is stored. Download the workbook to your computer.
-4. Open in Tableau: Use Tableau Desktop or Tableau Public to open the downloaded file.
+   git clone https://github.com/raghav1914/Bike-Sales-Analysis-Dashboard-using-Tableau.git
+2. Download the Tableau Workbook: Navigate to the folder in the repository where the Tableau file is stored. Download the workbook to your computer.
+3. Open in Tableau: Use Tableau Desktop or Tableau Public to open the downloaded file.
    
 Usage Instructions:
 1. Open the Dashboard: Load the Tableau workbook and interact with the dashboard.
